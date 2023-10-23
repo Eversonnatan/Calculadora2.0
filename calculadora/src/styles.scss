@@ -1,0 +1,24 @@
+/* You can add global styles to this file, and also import other style files */
+@import './reset.scss';
+@import url('https://fonts.googleapis.com/css2?family-Montserra:wght@100;200;300;400;500&display-swap');
+
+:root{
+    --color-primary:#FFFFFF; 
+    --color-secondary:#f3E7FF;
+    --color-calc:#615A62;
+    --bg-color:#A699B2;
+    --bg-title-color:#C0AFD0;
+    --bg-btn-color:#D0D0D8;
+    --bg-btn-number-color:#DBDBDB ;
+    --bg-btn-equal-color:#DFC2F1; 
+    --bg-btn-hover-color: #C6C6C9;
+ 
+ }
+
+ html{
+    font-family:'Montserrat',sans-serif !important;
+ }
+
+ h1,h2,h3,h4,h5,h6{
+    margin: 8px 0 ;
+ }
